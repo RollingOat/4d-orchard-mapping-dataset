@@ -1,0 +1,11 @@
+<launch>
+<!-- Launch file for ouster OS2-128 LiDAR -->
+    <!-- launch driver to get pointcloud from ouster -->
+    <include file="$(find ouster_ros)/launch/replay.launch">
+        <arg name="ouster_ns" value="ouster" />
+        <arg name="metadata" value="ouster_metadata.json" />
+        <arg name="timestamp_mode" value="TIME_FROM_ROS_TIME" />
+        <arg name="viz" value="false" />
+    </include>
+
+</launch>
