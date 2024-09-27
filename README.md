@@ -1,9 +1,8 @@
 # 4d-orchard-mapping-dataset
 
 This repository holds scripts and tutorials on using the dataset presented in the paper **4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset**
-Project website: [https://4d-metric-semantic-mapping.org/overview/](https://4d-metric-semantic-mapping.org/overview/)
 
-<iframe width="560" height="315" src="https://youtu.be/uzHNjeqAk-0?si=gHVvOxSWTueTOlFK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Project website: [https://4d-metric-semantic-mapping.org/overview/](https://4d-metric-semantic-mapping.org/overview/)
 
 ## Scripts
 * manual_counting.py: helper script to get the ground truth of fruit count
