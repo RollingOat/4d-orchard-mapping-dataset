@@ -77,4 +77,4 @@ After installing ROS1, following the steps below:
     ```
 
 ## Questions
-    Please feel free to open an issue if there are any questions or bugs.
+Please feel free to open an issue if there are any questions or bugs.
