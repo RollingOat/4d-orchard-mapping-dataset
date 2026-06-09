@@ -80,3 +80,7 @@ After installing ROS1, following the steps below:
 
 ## Questions
 Please feel free to open an issue if there are any questions or bugs.
+
+
+## License
+This code and data is released using the Penn Software Licence. Please refer to LICENSE.txt for details.
